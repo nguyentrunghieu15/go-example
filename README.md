@@ -8,4 +8,4 @@
 
 Directory /edUdemy: Chứa các bài tập cho mỗi section của Udemy
 
-Directory /exImplement Chứa các code triển khai các phần lí thuyết theo yêu cầu của chương trình. Bao gồm có  file implemenQueue.go coding Queue struct sử dụng kiến thức của For-loop, interfaces, data structure, error handling,name conversation, data structure , go module, pakage import and file implementGoRoutine.go coding sum function  sử dụng kiế thức của multithreading
+Directory /exImplement Chứa các code triển khai các phần lí thuyết theo yêu cầu của chương trình. Bao gồm có  file implemenQueue.go coding Queue struct sử dụng kiến thức của For-loop, interfaces, data structure, error handling,name conversation, data structure , go module, pakage import and file implementGoRoutine.go coding sum function  sử dụng kiếnn thức của multithreading
